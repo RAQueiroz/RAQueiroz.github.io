@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Um Blog Inesperado]]></title><description><![CDATA[Um blog para aprender em público ;).]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 07 Aug 2019 21:30:34 GMT</lastBuildDate><item><title><![CDATA[Olá mundo]]></title><description><![CDATA[Photo by Annie Spratt on Unsplash Esse post é para estrear o blog. Aqui vou manter um registro das coisas que estou apreendendo.]]></description><link>https://gatsby-starter-blog-demo.netlify.com/ola-mundo/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/ola-mundo/</guid><pubDate>Wed, 07 Aug 2019 22:16:55 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/85783d01c939badfdd2a873f2b8fc23e/cc43b/annie-spratt-thI_CZAB0MY-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.675%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGHpExZgT//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIQESH/2gAIAQEAAQUCi2zJt8NNr//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGn/8QAGBABAAMBAAAAAAAAAAAAAAAAAQAREiD/2gAIAQEABj8CchLQ5//EABkQAAMBAQEAAAAAAAAAAAAAAAABIRFRkf/aAAgBAQABPyGgl0zfTQ66JkozXR1n/9oADAMBAAIAAwAAABDIL//EABcRAQADAAAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8QBG3H/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QWP/EABkQAQEBAQEBAAAAAAAAAAAAAAERACExYf/aAAgBAQABPxBK8QmnCedwTKNUG3297iGJVa80ogWzfXkovrv/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Books&quot;
+        title=&quot;Books&quot;
+        src=&quot;/static/85783d01c939badfdd2a873f2b8fc23e/c739e/annie-spratt-thI_CZAB0MY-unsplash.jpg&quot;
+        srcset=&quot;/static/85783d01c939badfdd2a873f2b8fc23e/8ee9c/annie-spratt-thI_CZAB0MY-unsplash.jpg 148w,
+/static/85783d01c939badfdd2a873f2b8fc23e/ebbe7/annie-spratt-thI_CZAB0MY-unsplash.jpg 295w,
+/static/85783d01c939badfdd2a873f2b8fc23e/c739e/annie-spratt-thI_CZAB0MY-unsplash.jpg 590w,
+/static/85783d01c939badfdd2a873f2b8fc23e/5413e/annie-spratt-thI_CZAB0MY-unsplash.jpg 885w,
+/static/85783d01c939badfdd2a873f2b8fc23e/4efde/annie-spratt-thI_CZAB0MY-unsplash.jpg 1180w,
+/static/85783d01c939badfdd2a873f2b8fc23e/cc43b/annie-spratt-thI_CZAB0MY-unsplash.jpg 4000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@anniespratt&quot;&gt;Annie Spratt&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Esse post é para estrear o blog.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Olá mundo&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Aqui vou manter um registro das coisas que estou apreendendo.&lt;/p&gt;</content:encoded></item></channel></rss>
